@@ -1,4 +1,4 @@
-# final-project-3
+# Final Project 3
 
 1. Ahyar Firdaus (WDP-KS11-010)
 2. Alfiona Reggina Bunga Simbolinggi (WDP-KS11-014)
